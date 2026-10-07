@@ -3,3 +3,5 @@ h2{font-size:30px;}
 #name{color:blue;}
 button {background-color:pink;
 color:blue;}
+button:hover {background-color:gray;}
+body{background-color:powderblue;}
